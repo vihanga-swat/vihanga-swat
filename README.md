@@ -9,9 +9,9 @@ I’m a Software Engineer with 2+ years of experience in building Conversational
 
 ## 🛠️ Skills & Technologies
 
-**Languages:** Python, JavaScript, Java, Kotlin
-**AI & LLM:** LangChain, LlamaIndex, Prompt Engineering, RAG, VectorDBs (ChromaDB)
-**Web & Mobile:** Next.js, React.js, React Native, Flask, Tailwind CSS, MERN Stack
+**Languages:** Python, JavaScript, Java, Kotlin  
+**AI & LLM:** LangChain, LlamaIndex, Prompt Engineering, RAG, VectorDBs (ChromaDB)  
+**Web & Mobile:** Next.js, React.js, React Native, Flask, Tailwind CSS, MERN Stack  
 **Data & DevOps:** PowerBI, Grafana, Docker, GitHub, MySQL, MongoDB, PostgreSQL
 
 
