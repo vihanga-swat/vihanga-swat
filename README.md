@@ -19,6 +19,6 @@ I’m a Software Engineer with 2+ years of experience in building Conversational
 
 ## 🔗 Connect With Me
 
-🌍 [Website](https://vihangapalihakkara.com)  
+🌍 [Website](https://www.vihangapalihakkara.com)  
 💼 [LinkedIn](https://linkedin.com/in/vpalihakkara)  
 📧 vtharupathi@gmail.com  
